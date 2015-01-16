@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2
 
-Get even more **WordPress Admin Color Schemes** to bring some personality to your WP dashboard.
+Get even more WordPress Admin Color Schemes to bring some personality to your WP dashboard.
 
 
 == Description == 

@@ -1,6 +1,6 @@
 === WP Admin Color Schemes ===
 Contributors: meabhisek
-Tags: admin, dashboard, color, theme, scheme, custom
+Tags: color-scheme, admin, dashboard, color, theme, scheme, custom
 Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: trunk

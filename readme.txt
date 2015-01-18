@@ -44,3 +44,6 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 3. Fresh Admin Color Scheme
 4. Night Admin Color Scheme
 5. Baby Blue Admin Color Scheme
+6. Tiranga Admin Color Scheme
+7. Remix Admin Color Scheme
+8. Pumpkin Admin Color Scheme

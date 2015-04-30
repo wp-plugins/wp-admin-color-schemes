@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags: color-scheme, admin, dashboard, color, theme, scheme, custom
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPLv2
 

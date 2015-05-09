@@ -4,7 +4,7 @@
  * Description: Adds even more admin color schemes to WordPress.
  * Author: Kumar Abhisek
  * Author URI: http://increasy.com/
- * Version: 1.0
+ * Version: 1.0.1
  * Text Domain: wpacs-admin-schemes
  * License: GPL2
  *
@@ -78,6 +78,38 @@
 			__( 'Remix', 'wpacs-admin-schemes' ),
 			plugins_url( "remix/colors$rtlsuff.css", __FILE__ ),
 			array( '#aa9d88', '#627c83', '#59524c', '#e14d43' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'modern',
+			__( 'Modern', 'wpacs-admin-schemes' ),
+			plugins_url( "modern/colors$rtlsuff.css", __FILE__ ),
+			array( '#009688', '#ffc107', '#212121', '#00796b' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'elegance',
+			__( 'Elegance', 'wpacs-admin-schemes' ),
+			plugins_url( "elegance/colors$rtlsuff.css", __FILE__ ),
+			array( '#568259', '#4a4238', '#00120b', '#3f6142' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'simplicity',
+			__( 'Simplicity', 'wpacs-admin-schemes' ),
+			plugins_url( "simplicity/colors$rtlsuff.css", __FILE__ ),
+			array( '#9e9e9e', '#cddc39', '#616161', '#98a80c' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'chocolate',
+			__( 'Chocolate', 'wpacs-admin-schemes' ),
+			plugins_url( "chocolate/colors$rtlsuff.css", __FILE__ ),
+			array( '#5d4037', '#795548', '#362620', '#422d26' )
 			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
 		);
 	}

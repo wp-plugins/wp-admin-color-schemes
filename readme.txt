@@ -50,9 +50,9 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 7. Remix Admin Color Scheme
 8. Pumpkin Admin Color Scheme
 9. Elegance Admin Color Scheme
-10.Modern Admin Color Scheme
-11.Simplicity Admin Color Scheme
-12.Chocolate Admin Color Scheme
+10. Modern Admin Color Scheme
+11. Simplicity Admin Color Scheme
+12. Chocolate Admin Color Scheme
 
 == Changelog ==
 

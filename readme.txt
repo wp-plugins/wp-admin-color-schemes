@@ -58,12 +58,13 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Added 2 new color schemes Eco and Slate.Check out the screenshots.
+
 = 1.0.1 =
 
 * Works with WordPress 4.2.2
 * Tweaked previous color schemes
 * Added 4 new color schemes Elegance,Modern,Simplicity,Chocolate.Check out the screenshots.
 
-= 1.0.2 =
-
-* Added 2 new color schemes Eco and Slate.Check out the screenshots.

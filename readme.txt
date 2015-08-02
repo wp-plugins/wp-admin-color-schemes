@@ -11,7 +11,7 @@ Get even more WordPress Admin Color Schemes to bring some personality to your WP
 
 == Description == 
 
-Looking for even more WordPress admin color schemes? **WP Admin Color Schemes** brings 12 new color schemes to your WordPress dashboard, with more to follow. 
+Looking for even more WordPress admin color schemes? **WP Admin Color Schemes** brings 14 new color schemes to your WordPress dashboard, with more to follow. 
 
 If you like this plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/wp-admin-color-schemes). Thank you!
 

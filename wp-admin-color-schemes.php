@@ -112,6 +112,22 @@
 			array( '#5d4037', '#795548', '#362620', '#422d26' )
 			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
 		);
+
+		wp_admin_css_color(
+			'eco',
+			__( 'Eco', 'wpacs-admin-schemes' ),
+			plugins_url( "eco/colors$rtlsuff.css", __FILE__ ),
+			array( '#4caf50', '#ff5722', '#388e3c', '#ff5722' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
+
+		wp_admin_css_color(
+			'slate',
+			__( 'Slate', 'wpacs-admin-schemes' ),
+			plugins_url( "slate/colors$rtlsuff.css", __FILE__ ),
+			array( '#607d8b', '#ff5252', '#455a64', '#cfd8dc' )
+			//array( 'base' => '#f1f2f3', 'focus' => '#fff', 'current' => '#fff' )
+		);
 	}
 
 add_action( 'admin_init' , 'wpacs_add_color_schemes' );

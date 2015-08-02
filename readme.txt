@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags: color-scheme, admin, dashboard, color, theme, scheme, custom
 Requires at least: 3.8
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Stable tag: 1.0.1
 License: GPLv2
 
@@ -53,6 +53,8 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 10. Modern Admin Color Scheme
 11. Simplicity Admin Color Scheme
 12. Chocolate Admin Color Scheme
+13. Eco Admin Color Scheme
+14. Slate Admin Color Scheme
 
 == Changelog ==
 
@@ -61,3 +63,7 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 * Works with WordPress 4.2.2
 * Tweaked previous color schemes
 * Added 4 new color schemes Elegance,Modern,Simplicity,Chocolate.Check out the screenshots.
+
+= 1.0.2 =
+
+* Added 2 new color schemes Eco and Slate.Check out the screenshots.

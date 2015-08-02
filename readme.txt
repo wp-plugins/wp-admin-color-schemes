@@ -3,7 +3,7 @@ Contributors: meabhisek
 Tags: color-scheme, admin, dashboard, color, theme, scheme, custom
 Requires at least: 3.8
 Tested up to: 4.2.3
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 
 Get even more WordPress Admin Color Schemes to bring some personality to your WP dashboard.

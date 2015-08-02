@@ -4,7 +4,7 @@
  * Description: Adds even more admin color schemes to WordPress.
  * Author: Kumar Abhisek
  * Author URI: http://increasy.com/
- * Version: 1.0.1
+ * Version: 1.0.2
  * Text Domain: wpacs-admin-schemes
  * License: GPL2
  *
